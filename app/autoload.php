@@ -11,6 +11,10 @@ use Magento\Framework\Autoload\ClassLoaderWrapper;
 /**
  * Shortcut constant for the root directory
  */
+
+/**
+ * Shortcut constant for the root directory
+ */
 define('BP', dirname(__DIR__));
 
 define('VENDOR_PATH', BP . '/app/etc/vendor_path.php');
