@@ -1436,7 +1436,7 @@ _defineProperty(CartPageContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707476674
+      // 1605714683259
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;

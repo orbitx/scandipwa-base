@@ -563,7 +563,7 @@ _defineProperty(CategoryDetails, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516128
+      // 1605714690201
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -1310,7 +1310,7 @@ _defineProperty(CategoryFilterOverlayContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707515771
+      // 1605714693878
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -1990,7 +1990,7 @@ var mapDispatchToProps = middleware(function (dispatch) {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517898
+      // 1605714696060
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -2188,7 +2188,7 @@ _defineProperty(CategoryPaginationLink, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707518397
+      // 1605714696518
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -2440,7 +2440,7 @@ _defineProperty(CategoryProductListContainer, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707511563
+      // 1605714693610
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -2875,7 +2875,7 @@ _defineProperty(CategorySortContainer, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516104
+      // 1605714692828
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -3149,7 +3149,7 @@ var mapDispatchToProps = middleware(function (dispatch) {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707518438
+      // 1605714696379
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -3584,7 +3584,7 @@ _defineProperty(NewProductsContainer, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517828
+      // 1605714695518
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -4556,7 +4556,7 @@ _defineProperty(ProductListContainer, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516507
+      // 1605714695144
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -4913,7 +4913,7 @@ var DEFAULT_PLACEHOLDER_COUNT = 8;
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517662
+      // 1605714695782
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -5221,7 +5221,7 @@ var mapStateToProps = middleware(function (state) {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517388
+      // 1605714695313
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -5572,7 +5572,7 @@ _defineProperty(ResetButtonContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517569
+      // 1605714695416
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -6019,7 +6019,7 @@ _defineProperty(SearchItemContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707518018
+      // 1605714696231
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -6476,7 +6476,7 @@ _defineProperty(SearchOverlayContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516545
+      // 1605714694792
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -7566,7 +7566,7 @@ _defineProperty(CategoryPageContainer, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707475428
+      // 1605714676384
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -8022,7 +8022,7 @@ _defineProperty(SearchPageContainer, "defaultProps", _objectSpread2(_objectSprea
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707471724
+      // 1605714672317
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;

@@ -412,7 +412,7 @@ var mapStateToProps = middleware(function (state) {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707514818
+      // 1605714691974
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -1367,7 +1367,7 @@ _defineProperty(CartItemContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707515184
+      // 1605714692568
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;

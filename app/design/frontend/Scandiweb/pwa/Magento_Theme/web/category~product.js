@@ -312,7 +312,7 @@ _defineProperty(ProductConfigurableAttributeDropdownContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707518595
+      // 1605714696395
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -799,7 +799,7 @@ _defineProperty(ProductConfigurableAttributesContainer, "propTypes", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517745
+      // 1605714695644
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;

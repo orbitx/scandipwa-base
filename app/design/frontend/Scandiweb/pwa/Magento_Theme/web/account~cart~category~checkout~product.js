@@ -298,7 +298,7 @@ _defineProperty(ExpandableContent, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707502646
+      // 1605714684888
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;

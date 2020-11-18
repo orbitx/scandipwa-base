@@ -445,7 +445,7 @@ var STRING_ONLY_ATTRIBUTE_CODES = ['category_id'];
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516588
+      // 1605714694268
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -1292,7 +1292,7 @@ var mapStateToProps = middleware(function (state) {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707515515
+      // 1605714693419
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -1735,7 +1735,7 @@ _defineProperty(ProductPriceContainer, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707517169
+      // 1605714695240
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -1953,7 +1953,7 @@ _defineProperty(ProductReviewRating, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516344
+      // 1605714694472
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
@@ -2188,7 +2188,7 @@ _defineProperty(TierPrices, "defaultProps", {
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1605707516458
+      // 1605714694225
       var cssReload = __webpack_require__(/*! ../../../../../../../app/design/frontend/Scandiweb/pwa/node_modules/css-hot-loader/hotModuleReplacement.js */ "./node_modules/css-hot-loader/hotModuleReplacement.js")(module.i, {"fileMap":"{fileName}"});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);;
