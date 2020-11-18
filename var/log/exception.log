@@ -1,0 +1,1 @@
+[2020-11-18 13:43:56] main.CRITICAL: Class Magento\Framework\App\Http\Interceptor does not exist {"exception":"[object] (ReflectionException(code: -1): Class Magento\\Framework\\App\\Http\\Interceptor does not exist at /var/www/public/vendor/magento/framework/Code/Reader/ClassReader.php:26)"} []
